@@ -1,5 +1,7 @@
 # AE3-Criptografia
 
+-English: It is a Java application for encrypting phrases and hashing passwords.
+
 Es una aplicación Java para encriptar frases y hashear contraseñas.
 
 Este es una tarea realizada para el ciclo formativo grado superior de Desarrollo de Aplicaciones Multiplataforma.
